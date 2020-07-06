@@ -5,6 +5,8 @@
 layout: home
 ---
 
+[Resume Link][resume-link]
+
 I have 5+ years of hands-on building experience in Data Engineering with clients in the UK, HK, & India. I build large scale end-to-end data pipe lines, with experience in batch as well as streaming data. I develop automated data processing systems for data modeling, mining and production while also being scalable and efficient.
 
 My experience gave me a decent knowledge of Pipeline development, infrastructure, and scaling. I’ve used a wide range of technologies:
@@ -34,3 +36,4 @@ Ohhh one last thing, I love listening to songs from all around the world. Here's
 Aj
 
 [spotify-playlist]: https://open.spotify.com/playlist/1EGuueDPLt1lzCw7s8pcsR
+[resume-link]: https://www.notion.so/aj7/Ajay-Moorjani-Resume-ebfd247c9ace490ebf1f041a24e3ca25

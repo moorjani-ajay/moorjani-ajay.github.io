@@ -31,9 +31,7 @@ I love riding motor-cycles, hit me up if you want to plan a trip. I also like tr
 
 I am happy to contribure on Open Source projects, do let me know if see an opportunity.
 
-Ohhh one last thing, I love listening to songs from all around the world. Here's my [Spotify Playlist][spotify-playlist]
 
 Aj
 
-[spotify-playlist]: https://open.spotify.com/playlist/1EGuueDPLt1lzCw7s8pcsR
 [resume-link]: https://www.notion.so/aj7/Ajay-Moorjani-Resume-ebfd247c9ace490ebf1f041a24e3ca25

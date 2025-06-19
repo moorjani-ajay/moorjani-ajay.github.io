@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Available for complex data projects requiring senior-level expertise in AWS/Azure/GCP environments. 
   My blog shares practical insights from a decade of solving 
   challenging data engineering problems for Fortune 500 companies and startups alike.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "ajaymoorjani.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: moorjaniajay
 github_username:  moorjani-ajay

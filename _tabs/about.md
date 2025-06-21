@@ -86,7 +86,7 @@ _Feb 2023 – Nov 2024_
 **Easyship, United Kingdom**  
 _Oct 2020 – Oct 2022_
 
-🌐 [easyship.com](http://www.easyship.com)
+🌐 [easyship.com](https://www.easyship.com)
 
 - Built full cloud-native stack: Airflow → Python → BigQuery → dbt.
 - Architected ELT across 15+ sources; delivered sub-hour dashboards.

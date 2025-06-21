@@ -3,7 +3,7 @@ title: "Threshold‑Aware dbt Tests: When Not Null Is Too Strict"
 description: "How to create custom dbt tests that allow for a small percentage of duplicates or nulls, keeping your batch green while still surfacing issues."
 date: 2025-06-19
 layout: post
-nav_order: 2
+nav_order: 998
 ---
 
 # Threshold‑Aware dbt Tests: When **Not Null** Is Too Strict

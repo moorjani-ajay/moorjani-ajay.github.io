@@ -3,7 +3,7 @@ title: "Building an AI Analyst for Business Users"
 description: "How to create an AI agent that answers business questions by connecting to a data warehouse and Metabase dashboards."
 date: 2025-06-21
 layout: post
-nav_order: 3
+nav_order: 997
 ---
 
 # Building an AI Analyst for Business Users
@@ -211,7 +211,7 @@ This agent takes the SQL results, the SQL query, and a brief explanation of what
 
 ---
 
-5. Agent 3: Metabase Dashboard Router
+### 5. Agent 3: Metabase Dashboard Router
 
 This agent helps users find relevant Metabase charts based on their questions. It uses the metadata of the Metabase questions to identify the most relevant charts.
 
@@ -270,6 +270,8 @@ ROLE_OBJECTIVE_CONSTRAINTS = (
         return response
 
 ```
+
+---
 
 6. Wrapping It All Up
 

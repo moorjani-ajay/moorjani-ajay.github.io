@@ -6,7 +6,7 @@ permalink: /about/
 
 # Ajay Moorjani
 
-**Data Engineer and technical founder** with a track record of launching and growing products—most notably co-founding \*\*FLEXR, a VC-backed healthtech business, and growing it to $350k+ ARR. Experienced in mentoring high-performing data organisations and driving analytics-led strategy.
+**Data Engineer and technical founder** with a track record of launching and growing products—most notably co-founding FLEXR, a VC-backed healthtech business, and growing it to $350k+ ARR. Experienced in mentoring high-performing data organisations and driving analytics-led strategy.
 
 - 📍 London, UK
 - ✉️ [Email](mailto:moorjaniajay@gmail.com)

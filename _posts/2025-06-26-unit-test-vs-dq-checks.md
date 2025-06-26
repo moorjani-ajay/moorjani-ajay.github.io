@@ -3,7 +3,16 @@ title: "Unit Tests vs Data Quality Checks"
 date: 2025-06-26
 categories: ["Data Engineering"]
 description: "Understanding the difference between unit tests and data quality checks in data engineering."
-tags:[unit testing, data quality, data engineering, dbt, testing, data pipelines, software testing]
+tags:
+  [
+    unit testing,
+    data quality,
+    data engineering,
+    dbt,
+    testing,
+    data pipelines,
+    software testing,
+  ]
 ---
 
 # Unit Tests vs Data Quality Checks

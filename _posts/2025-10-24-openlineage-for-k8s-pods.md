@@ -1,12 +1,12 @@
 ---
-title: OpenLineage + Airflow on Kubernetes: Getting Real Lineage into Atlan/Marquez
+title: "OpenLineage + Airflow on Kubernetes - Getting Real Lineage into Atlan/Marquez"
 date: 2025-10-24
 categories: [Airflow, OpenLineage, Kubernetes, Atlan, Marquez, Data Engineering]
 description: “A practical guide to wiring OpenLineage for Airflow DAGs that use the KubernetesPodOperator, with manual inlets/outlets and emitting lineage from inside the pod. Works with Atlan or Marquez.”
 tags: [airflow, openlineage, kubernetes, kpo, atlan, marquez, lineage]
 ---
 
-# OpenLineage + Airflow on Kubernetes: Getting e2e Lineage into Atlan/Marquez
+# OpenLineage + Airflow on Kubernetes - Getting e2e Lineage into Atlan/Marquez
 
 If you’re running Airflow on Kubernetes and want your runs to show up in Atlan or Marquez with proper dataset lineage, you’ll eventually hit a snag: the KubernetesPodOperator (KPO) is a black box. It launches a container and Airflow has no idea what inputs/outputs you touched. That means OpenLineage can’t emit the right dataset edges.
 
